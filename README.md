@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @bbulentbozdag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Merhaba, ben @bbulentbozdag - 👀 İlgileniyorum... - 🌱 Şu anda öğreniyorum... - 💞 İşbirliği yapmak istiyorum... - 📫 Bana nasıl ulaşılır ...  En fazla sigara içen ülkeler:  1-Nau - %52,1 2-Kiribati - %52 3-Tuvalu - %48,7 4-Myanmar - %45,5 5-Şili - %44,7 6-Lübnan - %42,6 7-Sırbistan - %40,6 8-Bangladeş - %39,1 9-Yunanistan - %39,1 10-Bulgaristan - %38,9 ... 9- - <!--- bbulentbozdag/bbulentbozdag, GitHub profilinizde `README.md` (bu dosya) göründüğü için ✨ özel bir ✨ deposudur. Değişikliklerinize göz atmak için Önizleme bağlantısını tıklayabilirsiniz. ---> En fazla sigara içen ülkeler: 
 
-<!---
-bbulentbozdag/bbulentbozdag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1-Nauru - %52,1
+2-Kiribati - %52
+3-Tuvalu - %48,7
+4-Myanmar - %45,5
+5-Şili - %44,7
+6-Lübnan - %42,6
+7-Sırbistan - %40,6
+8-Bangladeş - %39,1
+9-Yunanistan - %39,1
+10-Bulgaristan - %38,9 
+…
+29-Türkiye - %29,3
